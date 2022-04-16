@@ -1,4 +1,4 @@
 @extends('site.layout')
-@section('title', 'Página inicial')
+@section('title', 'Calvos.com')
 @section('content')
 @endsection
