@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Registro</title>
+    <style>
+        body{
+            background: url(/img/02.jpg),center;
+            background-repeat:no-repeat ;
+            background-size:cover;
+        }
+    </style>
 </head>
 <body>
 <x-guest-layout>

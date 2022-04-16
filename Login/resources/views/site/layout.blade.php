@@ -7,27 +7,7 @@
     <title>@yield('title')</title>
     <link rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">    
-<style>
-  body{
-    width: 90%;
-    max-width: 1000px;
-    margin: auto;
-    background: url(02.jpg),center;
-    background-repeat:no-repeat ;
-    background-size:cover;
-    font-family: 'Courier New', Courier, monospace ;
-    line-height: 2;
-    color: rgb(251, 250, 250);
-    font-size: 2em;
-}
-main{
-    background: rgba(0, 0, 0, 0.534);
-    padding: 10px 20px;
-    margin-top: 20px;
-    border-radius: 10px;
-    font-size: 1em;    
-}
-</style>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <nav class="black">
@@ -49,7 +29,7 @@ main{
     <h3>Cansado de ser chamado de careca?</h3><br>
     <h3>Registre-se agora em nosso site e resolva esse problema de vez. 
         Segredos nunca revelados serão contados de graça... <br>
-    <b>Tá esperando o quê?</b></h3>
+    <b>Está esperando o quê?</b></h3>
  </main>
 </body>
 </html>
